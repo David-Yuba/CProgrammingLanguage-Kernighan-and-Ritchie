@@ -1,0 +1,2 @@
+I would test the program by loading into it a text file that contains text from a book.
+The most likely inputs to uncover bugs would be text files with random characters written in them.

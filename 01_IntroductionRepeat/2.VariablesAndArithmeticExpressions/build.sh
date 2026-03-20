@@ -1,0 +1,4 @@
+gcc celsiusToFahrenheit.c -o celsiusToFahrenheit
+gcc fahrenheitToCelsiusBookSolution.c -o fahrenheitToCelsiusBookSolution
+gcc fahrenheitToCelsiusMySolution.c -o fahrenheitToCelsiusMySolution
+
