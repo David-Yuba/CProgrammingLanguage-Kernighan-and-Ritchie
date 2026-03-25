@@ -1,0 +1,3 @@
+#define UNTRACKED_SYMBOL 0
+#define OPENING_SYMBOL 1
+#define CLOSING_SYMBOL 2
